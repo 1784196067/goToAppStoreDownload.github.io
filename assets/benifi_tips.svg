@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="161px" height="45px" viewBox="0 0 161 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>benifi_tips</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M77.8,22 L71.5,28 L65.2,22 L11,22 C4.92486775,22 7.43989126e-16,17.0751322 0,11 C-7.43989126e-16,4.92486775 4.92486775,1.11598369e-15 11,0 L132,0 C138.075132,-1.11598369e-15 143,4.92486775 143,11 C143,17.0751322 138.075132,22 132,22 L77.8,22 Z" id="path-1"></path>
+        <filter x="-10.5%" y="-64.3%" width="121.0%" height="207.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="-3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.201200181 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="引导3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="体验5" transform="translate(-107.000000, -309.000000)">
+            <g id="Group-4-Copy-9">
+                <g id="benifi_tips" transform="translate(116.000000, 314.000000)">
+                    <g id="Combined-Shape" transform="translate(71.500000, 14.000000) scale(1, -1) translate(-71.500000, -14.000000) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#4C4C4C" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <text id="购买金额*收益率*期限/365" font-family="PingFang-SC-Regular, PingFang SC" font-size="10" font-weight="normal" fill="#F9F9F9">
+                        <tspan x="10.44" y="20">购买金额*收益率*期限/365</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

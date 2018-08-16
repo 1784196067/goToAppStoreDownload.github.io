@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>coin_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="24" cy="24" r="24"></circle>
+        <filter x="-3.1%" y="-3.1%" width="106.2%" height="106.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="3" dy="3" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feOffset dx="-3" dy="-3" in="SourceAlpha" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.97254902   0 0 0 0 0.71372549   0 0 0 0 0.176470588  0 0 0 1 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="引导3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="体验完成" transform="translate(-164.000000, -249.000000)">
+            <g id="Group-4-Copy-10">
+                <g id="coin_icon" transform="translate(164.000000, 249.000000)">
+                    <g id="Oval-40" fill-rule="nonzero">
+                        <use fill="#FCEE21" xlink:href="#path-1"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <circle stroke="#3E3A39" stroke-width="1.63636364" stroke-linejoin="square" cx="24" cy="24" r="23.1818182"></circle>
+                    </g>
+                    <path d="M32.4624243,34.5410637 L30.4183664,32.5123053 L30.4183664,17.4040337 C30.4183664,16.8295151 29.9491764,16.3636364 29.3702074,16.3636364 L20.6845226,16.3636364 C20.105718,16.3636364 19.6363636,16.8295151 19.6363636,17.4040337 L19.6363636,32.6591158 C19.6363636,33.2336343 20.105718,33.6995131 20.6845226,33.6995131 L29.2223016,33.6995131 L31.2688246,35.7307183 C31.4170591,35.8780182 31.609994,35.9801331 31.8190341,35.9970979 C32.0785266,36.0181407 32.325858,35.9240189 32.5036736,35.7385482 C32.8241361,35.4043096 32.7911038,34.8673093 32.4624243,34.5410637 M28.7269816,18.3431317 L28.7269816,31.7198547 C28.7269816,31.8859137 28.5914013,32.02049 28.4241034,32.02049 L21.6307909,32.02049 C21.4634931,32.02049 21.3279128,31.8859137 21.3279128,31.7198547 L21.3279128,18.3429686 C21.3279128,18.1770727 21.4634931,18.0426595 21.6306266,18.0426595 L28.4241034,18.0426595 C28.5914013,18.0426595 28.7269816,18.1772358 28.7269816,18.3431317" id="Fill-1" fill="#F8B62D"></path>
+                    <path d="M31.3715152,33.4501546 L29.3274573,31.4213962 L29.3274573,16.3131246 C29.3274573,15.738606 28.8582673,15.2727273 28.2792983,15.2727273 L19.5936135,15.2727273 C19.0148089,15.2727273 18.5454545,15.738606 18.5454545,16.3131246 L18.5454545,31.5682067 C18.5454545,32.1427252 19.0148089,32.608604 19.5936135,32.608604 L28.1313926,32.608604 L30.1779155,34.6398092 C30.32615,34.7871091 30.5190849,34.889224 30.7281251,34.9061888 C30.9876175,34.9272316 31.2349489,34.8331098 31.4127645,34.6476391 C31.733227,34.3134005 31.7001947,33.7764002 31.3715152,33.4501546 M27.6360725,17.2522226 L27.6360725,30.6289456 C27.6360725,30.7950046 27.5004922,30.9295809 27.3331944,30.9295809 L20.5398818,30.9295809 C20.372584,30.9295809 20.2370037,30.7950046 20.2370037,30.6289456 L20.2370037,17.2520595 C20.2370037,17.0861636 20.372584,16.9517504 20.5397175,16.9517504 L27.3331944,16.9517504 C27.5004922,16.9517504 27.6360725,17.0863267 27.6360725,17.2522226" id="Fill-1" fill="#3E3A39"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

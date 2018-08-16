@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="109px" height="119px" viewBox="0 0 109 119" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>pop_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-12.3%" y="-10.7%" width="124.5%" height="125.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.300866168 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FDEC69" offset="0%"></stop>
+            <stop stop-color="#F9D538" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-3" x="0" y="0" width="60" height="20" rx="9.64615385"></rect>
+        <filter x="-8.3%" y="-20.0%" width="116.7%" height="150.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.67051977   0 0 0 0 0   0 0 0 0 0  0 0 0 0.296875 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="引导3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页list" transform="translate(0.000000, -502.000000)">
+            <g id="pop_icon" filter="url(#filter-1)" transform="translate(-1.000000, 508.000000)">
+                <circle id="Oval-4" fill="#FCE962" fill-rule="nonzero" opacity="0.900000036" cx="81" cy="3" r="3"></circle>
+                <circle id="Oval-4-Copy" fill="#FFBE00" fill-rule="nonzero" opacity="0.497154018" cx="11.5" cy="74.5" r="4.5"></circle>
+                <circle id="Oval-4-Copy-2" fill="#FFBE00" fill-rule="nonzero" opacity="0.497154018" cx="89.5" cy="93.5" r="7.5"></circle>
+                <rect id="Rectangle-80" fill="#F93849" x="11" y="3" width="76.9230769" height="100" rx="2.05128205"></rect>
+                <g id="ios-copy-2" transform="translate(43.000000, 13.000000)">
+                    <g id="Group">
+                        <rect id="Rectangle-2-Copy-5" stroke="#FFFFFF" stroke-width="0.75" fill="#FFFFFF" opacity="0.600000024" x="0.375" y="0.375" width="11.25" height="11.25" rx="5.625"></rect>
+                        <path d="M8.62262637,9.44681699 L7.86468071,8.68916339 L7.86468071,3.04687676 C7.86468071,2.83231892 7.69070299,2.65833333 7.47601876,2.65833333 L4.25532862,2.65833333 C4.04070532,2.65833333 3.86666667,2.83231892 3.86666667,3.04687676 L3.86666667,8.74399078 C3.86666667,8.95854863 4.04070532,9.13253421 4.25532862,9.13253421 L7.42117464,9.13253421 L8.18003437,9.8911016 C8.23500036,9.94611174 8.30654146,9.98424724 8.38405447,9.99058285 C8.48027542,9.99844144 8.57198697,9.96329099 8.63792178,9.89402572 C8.7567507,9.76920203 8.74450218,9.56865563 8.62262637,9.44681699 M7.2375078,3.3975893 L7.2375078,8.39321732 C7.2375078,8.45523319 7.18723403,8.50549163 7.12519924,8.50549163 L4.60620908,8.50549163 C4.54417429,8.50549163 4.49390052,8.45523319 4.49390052,8.39321732 L4.49390052,3.39752838 C4.49390052,3.33557343 4.54417429,3.28537591 4.60614814,3.28537591 L7.12519924,3.28537591 C7.18723403,3.28537591 7.2375078,3.33563435 7.2375078,3.3975893" id="Fill-1" fill="#F93849"></path>
+                    </g>
+                </g>
+                <text id="￥50,000" font-family="PingFangSC-Semibold, PingFang SC" font-size="10" font-weight="500" fill="#FFFFFF">
+                    <tspan x="17.336" y="45">￥</tspan>
+                    <tspan x="27.336" y="45" font-family="NanumGothicExtraBold, Nanum Gothic" font-size="16" font-weight="600">50,000</tspan>
+                </text>
+                <path d="M82.3772361,29 C81.8535484,29.653025 81.4180699,30.0897727 81.0708008,30.3102432 C80.7235316,30.5307137 80.0332647,30.7229417 79,30.8869273 C79.8378946,31.5965624 80.3545983,32.0217244 80.5501109,32.1624133 C80.7456236,32.3031023 80.9191869,32.869516 81.0708008,33.8616546 C81.559814,33.2895564 81.9952925,32.9226865 82.3772361,32.7610449 C82.7591798,32.5994032 83.4288966,32.5055318 84.3863867,32.4794306 C83.6897154,32.1426787 83.2373638,31.6877225 83.0293317,31.114562 C82.8212997,30.5414015 82.6039345,29.8365475 82.3772361,29 Z" id="Path-5" fill="#FCEA65" fill-rule="nonzero"></path>
+                <path d="M98.4330021,5.66048456 C97.1552883,7.25376037 96.0927909,8.31935455 95.2455101,8.8572671 C94.3982292,9.39517965 92.7140891,9.86418506 90.1930896,10.2642833 C92.2374176,11.9956787 93.4980913,13.0330057 93.9751107,13.3762641 C94.4521302,13.7195225 94.8755966,15.1014808 95.2455101,17.5221391 C96.4386237,16.1263118 97.5011211,15.2312083 98.4330021,14.8368286 C99.3648831,14.4424489 100.998884,14.2134178 103.335006,14.1497352 C101.63524,13.3281146 100.531575,12.2180947 100.02401,10.8196754 C99.5164456,9.42125614 98.9861095,7.70152585 98.4330021,5.66048456 Z" id="Path-5-Copy-2" fill="#F93849" fill-rule="nonzero" transform="translate(96.764048, 11.591312) rotate(-34.000000) translate(-96.764048, -11.591312) "></path>
+                <path d="M6.91608414,88.4176471 C6.11922286,89.4113124 5.45658388,90.0758828 4.92816718,90.4113583 C4.39975049,90.7468338 3.34941662,91.0393345 1.77716555,91.2888605 C3.05213481,92.3686657 3.83836884,93.0156069 4.13586764,93.229684 C4.43336644,93.4437612 4.69746629,94.3056358 4.92816718,95.8153079 C5.67226657,94.9447837 6.33490556,94.3865418 6.91608414,94.1405823 C7.49726273,93.8946228 8.5163269,93.7517848 9.97327665,93.7120684 C8.9131978,93.199655 8.224884,92.507378 7.90833525,91.6352374 C7.59178649,90.7630967 7.26103613,89.6905666 6.91608414,88.4176471 Z" id="Path-5-Copy-3" fill="#F93849" fill-rule="nonzero" transform="translate(5.875221, 92.116478) rotate(-345.000000) translate(-5.875221, -92.116478) "></path>
+                <path d="M17.3772361,51 C16.8535484,51.653025 16.4180699,52.0897727 16.0708008,52.3102432 C15.7235316,52.5307137 15.0332647,52.7229417 14,52.8869273 C14.8378946,53.5965624 15.3545983,54.0217244 15.5501109,54.1624133 C15.7456236,54.3031023 15.9191869,54.869516 16.0708008,55.8616546 C16.559814,55.2895564 16.9952925,54.9226865 17.3772361,54.7610449 C17.7591798,54.5994032 18.4288966,54.5055318 19.3863867,54.4794306 C18.6897154,54.1426787 18.2373638,53.6877225 18.0293317,53.114562 C17.8212997,52.5414015 17.6039345,51.8365475 17.3772361,51 Z" id="Path-5-Copy" fill="#FCEA65" fill-rule="nonzero" transform="translate(16.693193, 53.430827) rotate(-26.000000) translate(-16.693193, -53.430827) "></path>
+                <text id="理财体验金" font-family="PingFangSC-Thin, PingFang SC" font-size="6" font-weight="300" fill="#FFFFFF">
+                    <tspan x="34" y="62">理财体验金</tspan>
+                </text>
+                <g id="Group-9" transform="translate(19.000000, 71.000000)">
+                    <g id="Rectangle-8">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    </g>
+                    <text id="立即领取" font-family="PingFang-SC-Medium, PingFang SC" font-size="9" font-weight="400" fill="#F93849">
+                        <tspan x="12" y="14">立即领取</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

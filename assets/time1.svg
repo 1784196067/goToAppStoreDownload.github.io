@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="98px" height="44px" viewBox="0 0 98 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>time1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M44.25,22 L40.5,27 L36.75,22 L11,22 C4.92486775,22 7.43989126e-16,17.0751322 0,11 C-4.29670281e-15,4.92486775 4.92486775,1.11598369e-15 11,0 L69,0 C75.0751322,-1.11598369e-15 80,4.92486775 80,11 C80,17.0751322 75.0751322,22 69,22 L44.25,22 Z" id="path-1"></path>
+        <filter x="-18.8%" y="-44.4%" width="137.5%" height="211.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.588887117   0 0 0 0 0.588887117   0 0 0 0 0.588887117  0 0 0 0.201200181 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="引导3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="体验2" transform="translate(-92.000000, -259.000000)">
+            <g id="Group-3">
+                <g id="Group-4-Copy-8">
+                    <g id="time1" transform="translate(101.000000, 265.000000)">
+                        <g id="Combined-Shape">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <path stroke="#EAEAEA" stroke-width="0.5" d="M40.5,26.5833333 L44.125,21.75 L69,21.75 C74.9370611,21.75 79.75,16.9370611 79.75,11 C79.75,5.06293894 74.9370611,0.25 69,0.25 L11,0.25 C5.06293894,0.25 0.25,5.06293894 0.25,11 C0.25,16.9370611 5.06293894,21.75 11,21.75 L36.875,21.75 L40.5,26.5833333 Z" stroke-linejoin="square" fill="#FAFAFA" fill-rule="evenodd"></path>
+                        </g>
+                        <text id="距离起息时间" font-family="PingFang-SC-Regular, PingFang SC" font-size="11" font-weight="normal" fill="#A6A6B2">
+                            <tspan x="7" y="15">距离起息时间</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

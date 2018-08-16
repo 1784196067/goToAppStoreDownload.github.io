@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="292px" height="120px" viewBox="0 0 292 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>pop_ticket</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M270,52 L270,83.9901533 C270,86.2047305 268.200871,88 265.994171,88 L14.0058287,88 C11.7934706,88 10,86.2022898 10,83.9901533 L10,52 C14.418278,52 18,48.418278 18,44 C18,39.581722 14.418278,36 10,36 L10,4.00984669 C10,1.79526951 11.7991289,0 14.0058287,0 L265.994171,0 C268.206529,0 270,1.79771022 270,4.00984669 L270,36 C265.581722,36 262,39.581722 262,44 C262,48.418278 265.581722,52 270,52 Z" id="path-1"></path>
+        <filter x="-10.2%" y="-24.4%" width="120.4%" height="160.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.554347826   0 0 0 0 0  0 0 0 0.202615489 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="引导3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="领取2" transform="translate(-42.000000, -298.000000)">
+            <g id="Group-4-Copy-4">
+                <g id="Group-3" transform="translate(48.000000, 309.000000)">
+                    <g id="pop_ticket">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
